@@ -13,17 +13,16 @@ Hardware Design Engineer focused on **memory-centric architecture**,
   - Memory subsystem architecture
   - Data movement optimization
   - Processing-in-Memory (PIM)
-  - Data reordering acceleration
   - SoC system design
 
-My current research focuses on reducing data movement overhead by improving
-data reordering performance in PIM-based systems.
+My current research focuses on enhancing PIM capability to reduce data round-trip overhead in heterogeneous PIM-CPU systems by moving previously CPU-dependent operations closer to memory.
+
+
 
 ---
 
 ## Research & Engineering Interests
 
-- Memory controller microarchitecture
 - AXI / AXI-Lite system integration
 - Hardware dataflow optimization
 - Architecture-level performance bottleneck analysis
@@ -42,7 +41,7 @@ data reordering performance in PIM-based systems.
 
 ### PIM Data Reordering Research
 
-- Investigating performance bottlenecks caused by data layout mismatch
+- Investigating performance bottlenecks caused by heterogeneous computing
 - Hardware-oriented approaches to reduce transpose/reordering overhead
 - Memory-centric architecture exploration
 
