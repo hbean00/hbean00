@@ -69,31 +69,6 @@ data reordering performance in PIM-based systems.
 
 ---
 
-## Selected Projects
-
-### SNN-based Neuromorphic RTL Design
-
-- Implemented basic RTL modules
-- Participated in architecture planning
-- Functional integration in team environment
-
----
-
-## Publication
-
-Detection of Concurrent Hardware Trojans Using EM Side-Channel Approach  
-(WISA 2025)
-
----
-
-## Goals
-
-- Tape-out level engineering experience
-- Memory-centric accelerator architecture
-- Data movement optimization in future computing systems
-
----
-
 ## Contact
 
 Email: jhg6548@korea.ac.kr
