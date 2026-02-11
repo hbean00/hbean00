@@ -1,10 +1,5 @@
 # Hyun Bin Kim
 
-Hardware Design Engineer focused on **memory-centric architecture**,  
-**PIM data movement optimization**, and **ASIC-oriented system design**.
-
----
-
 ## About Me
 
 - Electrical Engineering @ Korea University
